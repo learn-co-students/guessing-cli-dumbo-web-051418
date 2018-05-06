@@ -4,11 +4,11 @@
 
 ## Instructions
 
-## Running Your Guessing Game 
+## Running Your Guessing Game
 
 Packaged with this repository is a runner file `bin/guessing_cli`.
 
-The "bin" directory is short for "binary", which is another way of referrering to an executable file.
+The "bin" directory is short for "binary", which is another way of referring to an executable file.
 
 The executable "bin/guessing_cli" is a Ruby file, but the ".rb" extension has
 been left off. The ".rb" extension is not mandatory for Ruby files, it
